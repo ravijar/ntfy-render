@@ -1,0 +1,6 @@
+base-url: "https://ntfy-render.onrender.com"
+listen-http: "0.0.0.0:10000"
+behind-proxy: true
+cache-file: "/var/cache/ntfy/cache.db"
+auth-default-access: "deny-all"
+enable-login: true
