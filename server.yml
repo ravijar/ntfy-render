@@ -1,4 +1,4 @@
-base-url: "https://ntfy-render.onrender.com"
+base-url: "https://ntfy-render-tkpq.onrender.com"
 listen-http: "0.0.0.0:10000"
 behind-proxy: true
 cache-file: "/var/lib/ntfy/cache.db"
